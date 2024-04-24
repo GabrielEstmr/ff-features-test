@@ -1,4 +1,4 @@
-module ff-features-go
+module ff-features-test
 
 go 1.21.4
 
